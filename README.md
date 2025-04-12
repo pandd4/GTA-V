@@ -80,8 +80,8 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## 📸 Imagens do Projeto
 
-![HUD](assets/screenshots/hud-example.png)
-![Painel de Inventário](assets/screenshots/inventory-example.png)
+![personagens](https://github.com/user-attachments/assets/a48b8441-caff-494a-ae8c-5660cbe5ceec)
+
 
 ---
 
